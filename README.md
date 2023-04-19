@@ -20,6 +20,7 @@
 
 <img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
 <img align="left" alt="Css" width="20px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Word" width="30px" src="https://i.pinimg.com/564x/83/fe/22/83fe2289e31398d96e8e6ed9d603c72f.jpg" style="padding-right:10px;" />
 <img align="left" alt="Powerpoint" width="30px" src="https://i.pinimg.com/564x/25/6c/d9/256cd9ab1bf4323d26460ab0384b64a2.jpg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="30px" src="https://i.pinimg.com/564x/b0/cd/48/b0cd482fdc402478b0ef243812413284.jpg" style="padding-right:10px;" />
