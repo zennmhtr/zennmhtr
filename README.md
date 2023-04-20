@@ -23,7 +23,7 @@
 <img align="left" alt="Css" width="20px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Word" width="30px" src="https://i.pinimg.com/564x/83/fe/22/83fe2289e31398d96e8e6ed9d603c72f.jpg" style="padding-right:10px;" />
-<img align="left" alt="Powerpoint" width="30px" src="https://iconscout.com/icon/microsoft-powerpoint-1868950.png" style="padding-right:10px;" />
+<img align="left" alt="Powerpoint" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-04-512.png" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="30px" src="https://i.pinimg.com/564x/b0/cd/48/b0cd482fdc402478b0ef243812413284.jpg" style="padding-right:10px;" />
 
 
