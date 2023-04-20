@@ -24,7 +24,7 @@
 <img align="left" alt="Python" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
 <img align="left" alt="Word" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office_Mesa_de_trabajo_1-512.png" style="padding-right:10px;" />
 <img align="left" alt="Powerpoint" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-04-512.png" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="30px" src="https://www.nikkeldesign.be/swfiles/files/logocanva-3.png?nc=1617819258" style="padding-right:10px;" />
+<img align="left" alt="Canva" width="30px" src="https://icons.veryicon.com/png/o/brands/popular-brand-icon-simple-icons/canva.png" style="padding-right:10px;" />
 
 
 <br/>
