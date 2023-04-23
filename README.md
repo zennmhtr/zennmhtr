@@ -23,7 +23,7 @@
 <img align="left" alt="Word" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office_Mesa_de_trabajo_1-512.png" style="padding-right:10px;" />
 <img align="left" alt="Powerpoint" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-04-256.png" style="padding-right:10px;" />
 <img align="left" alt="Css" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
 <img align="left" alt="Mysql" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-512.png" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" style="padding-right:10px;" />
 
