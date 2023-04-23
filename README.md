@@ -14,7 +14,7 @@
 
 #### 1. [SMK AGUNG MULIA](https://dapo.kemdikbud.go.id/sekolah/9DBB4C7145C048816062) | TKJ | Socah, Kab.Bangkalan `2018-2021`
 
-
+- Quran teacher at TPQ Darussalam Mosque
 
 
 ### Languages and Tools:
