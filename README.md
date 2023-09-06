@@ -31,7 +31,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zennmht/count.svg" />
+  <img src="https://profile-counter.glitch.me/zennmhtr/count.svg" />
 </p>
 <a href=#><img src="contributions.svg"></a>
 <br/>
