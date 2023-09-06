@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href='https://www.instagram.com/zennmht/'>Zaini Muhtarom</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>~ Students University ~</h1>
+  <h1>Hi there, I'm <a href='https://www.instagram.com/zennmhtr/'>Zaini Muhtarom</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>~ Students University ~</h1>
   <h3>🏠 Kab.Bekasi - Jawa Barat, Indonesia</h3>
 </div>
 
@@ -25,7 +25,7 @@
 <img align="left" alt="Powerpoint" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-04-256.png" style="padding-right:10px;" />
 <img align="left" alt="Css" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="32px" src="https://iconscout.com/icon/canva-3823975" style="padding-right:10px;" />
+<img align="left" alt="Canva" width="32px" src="https://pin.it/5HLQjOB" style="padding-right:10px;" />
 
 
 <br/>
