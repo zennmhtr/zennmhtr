@@ -15,9 +15,6 @@
 
 #### 1. [SMK AGUNG MULIA](https://dapo.kemdikbud.go.id/sekolah/9DBB4C7145C048816062) | TKJ | Socah, Kab. Bangkalan `2018-2021`
 
-- Quran teacher at TPQ Mosque
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Excel" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-256.png" style="padding-right:10px;" />
@@ -25,7 +22,7 @@
 <img align="left" alt="Powerpoint" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-04-256.png" style="padding-right:10px;" />
 <img align="left" alt="Css" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="32px" src="https://pin.it/6xFeEDw" style="padding-right:10px;" />
+<img align="left" alt="Canva" width="32px" src="https://i.pinimg.com/564x/89/bd/d4/89bdd46056728a65f026e5732670b185.jpg" style="padding-right:10px;" />
 
 
 <br/>
