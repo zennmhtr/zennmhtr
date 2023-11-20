@@ -12,7 +12,6 @@
 - 📫 How to reach me **zeennxz12@gmail.com**
 <br/>
 <br/>
-<br/>
 
 ## Education :
 
