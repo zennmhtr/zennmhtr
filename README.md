@@ -21,7 +21,6 @@
 
 ## Languages and Tools :
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
