@@ -25,8 +25,6 @@
 <img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" style="padding-right:10px;" />
-<img align="left" alt="Mysql" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Excel" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-256.png" style="padding-right:10px;" />
 <img align="left" alt="Word" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office_Mesa_de_trabajo_1-512.png" style="padding-right:10px;" />
 <img align="left" alt="Powerpoint" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-04-256.png" style="padding-right:10px;" />
