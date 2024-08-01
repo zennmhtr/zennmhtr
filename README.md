@@ -8,7 +8,6 @@
 ## About me :
 
 - 🎓 I am a student at a private University in Indonesia and majoring in informatics engineering.
-- 🌐 Visit my **[porfolio](https://zennmhtr.github.io/responsive-portfolio/)** for complete background and contact. 
 - 📫 How to reach me **zeennxz12@gmail.com**
 <br/>
 <br/>
