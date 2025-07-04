@@ -18,7 +18,7 @@
 
 <br/>
 
-## Languages and Tools :
+## Languages & Tools :
 
 <img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
@@ -34,10 +34,9 @@
 <br/>
 
 ## Connect with me :
-<a href="https://facebook.com/zennmhtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zennmhtr" height="30" width="40" /></a>
-<a href="https://twitter.com/ZainiMuhtarom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zennmhtr" height="30" width="40" /></a>
 <a href="https://instagram.com/zennmhtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennmhtr" height="30" width="40" /></a>
 <a href="https://github.com/zennmhtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zennmhtr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zennmhtr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="zennmhtr" height="30" width="40" /></a>
 
 <br/>
 <br/>
