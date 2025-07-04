@@ -34,7 +34,7 @@
 <br/>
 
 ## Connect with me :
-<a href="https://instagram.com/zennmhtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennmhtr" height="30" width="40" /></a>
+<a href="https://instagram.com/zennmhtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 <a href="https://github.com/zennmhtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zennmhtr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zennmhtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 
