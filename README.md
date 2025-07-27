@@ -35,7 +35,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zennmhtr/count.svg" />
+  <img src="https://api.countapi.xyz/hit/zennmhtr.github.io/visits?style=flat" />
 </p>
 <a href=#><img src="contributions.svg"></a>
 <br/>
