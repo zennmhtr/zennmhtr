@@ -33,5 +33,5 @@
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=zennmhtr&show_icons=true&theme=bear" alt="zennmhtr" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=zennmhtr&theme=dark&hide_border=true" alt="zennmhtr" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zennmhtr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zennmhtr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="200">
 </p>
