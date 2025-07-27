@@ -22,7 +22,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-FB4141?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a11?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ff2dd1?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Word" src="https://img.shields.io/badge/-Word-093fb4?style=flat-square&logo=microsoftword&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-78c841?style=flat-square&logo=microsoftexcel&logoColor=white" />
