@@ -18,7 +18,7 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=black" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-5459ac?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DC3C22?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-Codeigniter-FF4F0F?style=flat-square&logo=codeigniter&logoColor=white" />
