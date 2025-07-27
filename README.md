@@ -1,6 +1,6 @@
 ### Hi There,
 <p align="left"> 
-  [!]<img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> 
+  <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zennmhtr.zennmhtr" />
   <a href="https://github.com/zennmhtr"><img src="https://img.shields.io/github/followers/zennmhtr?label=followers&style=social"/></a>
 </p>
