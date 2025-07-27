@@ -17,11 +17,6 @@
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00c4cc?style=flat-square&logo=canva&logoColor=white" />
 
 
-
-
-
-
-
  #### 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/zennmhtr/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/zennmhtr/)  &nbsp; <a href="mailto:zainimhtr12@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
@@ -30,13 +25,10 @@
 <br/>
 <br/>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://api.countapi.xyz/hit/zennmhtr.github.io/visits?style=flat" />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zennmhtr.zennmhtr" />
+  <a href="https://github.com/zennmhtr"><img src="https://img.shields.io/github/followers/zennmhtr?label=followers&style=social"/></a>
 </p>
-<a href=#><img src="contributions.svg"></a>
-<br/>
-<br/>
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=zennmhtr&show_icons=true&theme=bear" alt="zennmhtr" width = 400>
