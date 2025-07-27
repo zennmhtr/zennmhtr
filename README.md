@@ -26,7 +26,7 @@
   <img alt="Word" src="https://img.shields.io/badge/-Word-093fb4?style=flat-square&logo=microsoftword&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-78c841?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img alt="Powerpoint" src="https://img.shields.io/badge/-Powerpoint-ea2f14?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-ea2f14?style=flat-square&logo=canva&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-4ed7f1?style=flat-square&logo=canva&logoColor=black" />
 
 
 
