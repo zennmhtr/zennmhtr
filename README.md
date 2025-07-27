@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> </p>
 <br/>
@@ -19,7 +19,7 @@
 
  #### 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/zennmhtr/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/zennmhtr/)  &nbsp; <a href="mailto:zainimhtr12@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/zennmhtr/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/zennmhtr/) &nbsp; <a href="mailto:zainimhtr12@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 <br/>
 <br/>
@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zennmhtr.zennmhtr" />
   <a href="https://github.com/zennmhtr"><img src="https://img.shields.io/github/followers/zennmhtr?label=followers&style=social"/></a>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </p>
 
 <p align = "left">
