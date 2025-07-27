@@ -11,7 +11,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223?style=flat-square&logo=codeigniter&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=black" />
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-093fb4?style=flat-square&logo=wordpress&logoColor=white" />
