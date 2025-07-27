@@ -21,7 +21,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-3D74B6?style=flat-square&logo=php&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/-Laravel-DC3C22?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-Laravel-FF4F0F?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-Codeigniter-FF4F0F?style=flat-square&logo=codeigniter&logoColor=white" />
 
 
 
