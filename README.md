@@ -23,9 +23,9 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DC3C22?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-FB4141?style=flat-square&logo=codeigniter&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ff2dd1?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Word" src="https://img.shields.io/badge/-Word-093fb4?style=flat-square&logo=word&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-78c841?style=flat-square&logo=excel&logoColor=white" />
-  <img alt="Powerpoint" src="https://img.shields.io/badge/-Powerpoint-ea2f14?style=flat-square&logo=powerpoint&logoColor=white" />
+  <img alt="Word" src="https://img.shields.io/badge/-Word-093fb4?style=flat-square&logo=microsoftword&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-78c841?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img alt="Powerpoint" src="https://img.shields.io/badge/-Powerpoint-ea2f14?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
 
 
 
