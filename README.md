@@ -1,5 +1,3 @@
-<h1 align="center">Hi I'm, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> Zaini Muhtarom <br/> ~ Student University ~ </h1>
-<h3 align="center">A student who is learning a programming language</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> </p>
