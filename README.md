@@ -1,9 +1,13 @@
 ### Hi There,
+
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zennmhtr-b3823b274/)](https://www.linkedin.com/in/zennmhtr-b3823b274/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/zennmhtr/)](https://github.com/zennmht/) [![Email](https://img.shields.io/badge/-email-242A2D?style=flat&logo=email&logoColor=white&link=mailto:zainimhtr12@gmail.com)](https://mailto:zainimhtr12@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/zennmhtr)](https://www.instagram.com/zennmhtr) ![](https://komarev.com/ghpvc/?username=zennmhtr)
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zennmhtr.zennmhtr" />
   <a href="https://github.com/zennmhtr"><img src="https://img.shields.io/github/followers/zennmhtr?label=followers&style=social"/></a>
 </p>
+
 <br/>
 
 <h3>When I code, I rely on</h3>
