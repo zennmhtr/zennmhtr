@@ -24,7 +24,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
 
-  <img alt="MongoDB" src
 
 ## Connect with me :
 <a href="https://instagram.com/zennmhtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
