@@ -14,9 +14,7 @@
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Word" src="https://img.shields.io/badge/-Word-093fb4?style=flat-square&logo=microsoftword&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-78c841?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img alt="Powerpoint" src="https://img.shields.io/badge/-Powerpoint-ea2f14?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-093fb4?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00c4cc?style=flat-square&logo=canva&logoColor=white" />
 
 
