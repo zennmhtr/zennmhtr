@@ -4,15 +4,6 @@
 <p align="left"> <img src="https://www.instagram.com/zennmhtr&label=Instagram%20views&color=0e75b6&style=flat" alt="zennmhtr" /> </p>
 <br/>
 
-## About me :
-
-- 🎓 I am a student at a private University in Indonesia and majoring in informatics engineering.
-- 📫 How to reach me **zeennxz12@gmail.com**
-<br/>
-<br/>
-
-<br/>
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
