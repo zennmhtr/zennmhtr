@@ -17,7 +17,6 @@
 
 
  #### 📫 How to reach me:
- 
  # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zennmhtr/)](https://www.linkedin.com/in/zennmhtr/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/zennmhtr/)](https://github.com/zennmhtr/) [![Email](https://img.shields.io/badge/-email-242A2D?style=flat&logo=email&logoColor=white&link=mailto:zainimhtr12@gmail.com)](https://mailto:zainimhtr12@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/zennmhtr)](https://www.instagram.com/zennmhtr)
  
 <p align="center"> 
