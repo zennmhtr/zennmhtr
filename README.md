@@ -19,6 +19,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=black" />
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-093fb4?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00c4cc?style=flat-square&logo=canva&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
 
  #### 📫 How to reach me:
