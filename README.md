@@ -1,6 +1,10 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zennmhtr.zennmhtr" />
+  <a href="https://github.com/zennmhtr"><img src="https://img.shields.io/github/followers/zennmhtr?label=followers&style=social"/></a>
+</p>
 <br/>
 
 <h3>When I code, I rely on</h3>
@@ -24,12 +28,6 @@
 <br/>
 <br/>
 <br/>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zennmhtr.zennmhtr" />
-  <a href="https://github.com/zennmhtr"><img src="https://img.shields.io/github/followers/zennmhtr?label=followers&style=social"/></a>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</p>
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=zennmhtr&show_icons=true&theme=bear" alt="zennmhtr" width = 400>
