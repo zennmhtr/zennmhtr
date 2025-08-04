@@ -5,7 +5,7 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=black" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=black" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223?style=flat-square&logo=codeigniter&logoColor=black" />
