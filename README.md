@@ -5,7 +5,7 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=PHP&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
