@@ -12,7 +12,7 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
   <img alt="Inertia" src="https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223?style=flat-square&logo=codeigniter&logoColor=black" />
+  <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223.svg?logo=codeigniter&logoColor=black" />
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
