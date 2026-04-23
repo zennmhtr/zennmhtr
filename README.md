@@ -14,7 +14,7 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223?style=flat-square&logo=codeigniter&logoColor=black" />
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" />
   <img alt="Canva" src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" />
