@@ -19,7 +19,7 @@
 
  ### 📫 How to reach me :
 
- # [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zennmhtr/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/zennmhtr)](https://www.instagram.com/zennmhtr)
+ # [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zennmhtr/) [![Instagram](https://img.shields.io/badge/Instagram-%23D42F8A.svg?logo=Instagram&logoColor=white&link=https://www.instagram.com/zennmhtr)](https://www.instagram.com/zennmhtr) 
  
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=zennmhtr&label=Profile%20views&color=0e75b6&style=flat" alt="zennmhtr" /> 
