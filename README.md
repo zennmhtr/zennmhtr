@@ -1,6 +1,6 @@
 ### Hi There, Zaini Muhtarom
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
