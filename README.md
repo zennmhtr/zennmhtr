@@ -11,31 +11,21 @@
 
 ---
 
-<!-- Bio + GIF berdampingan -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>About Me 👨‍💻</h3>
-      <p>
-        Hi, my name is <strong>Zaini Muhtarom!</strong> I am passionate about sharing knowledge and solving problems, and I believe that technology is a powerful tool to achieve these goals. Currently, I am a student focusing on Web Development — dedicated to learning and building real-world web applications using modern technologies.
-      </p>
-      <ul>
-        <li>🎓 Pelajar / Mahasiswa</li>
-        <li>🌏 Based in Bekasi, West Java, Indonesia</li>
-        <li>🔭 Currently building my portfolio</li>
-        <li>💬 Ask me about <strong>Laravel, Next.js, or Tailwind CSS</strong></li>
-        <li>📫 Reach me at <a href="mailto:zainimhtrm@gmail.com">zainimhtrm@gmail.com</a></li>
-      </ul>
-    </td>
-    <td valign="top" width="40%" align="center">
-      <img alt="Coder GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="340" style="border-radius:12px;" />
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coder GIF" width="340" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+### About Me 👨‍💻
+
+Hi, my name is **Zaini Muhtarom!** I am passionate about sharing knowledge and solving problems, and I believe that technology is a powerful tool to achieve these goals. Currently, I am a student focusing on Web Development — dedicated to learning and building real-world web applications using modern technologies.
+
+- 🎓 Pelajar / Mahasiswa
+- 🌏 Based in Bekasi, West Java, Indonesia
+- 🔭 Currently building my portfolio
+- 💬 Ask me about **Laravel, Next.js, or Tailwind CSS**
+- 📫 Reach me at zainimhtrm@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Frontend**
 
@@ -64,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zennmhtr&show_icons=true&theme=bear&hide_border=true" alt="GitHub Stats" width="420" />
