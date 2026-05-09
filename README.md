@@ -17,10 +17,9 @@
 
 Hi, my name is **Zaini Muhtarom!** I am passionate about sharing knowledge and solving problems, and I believe that technology is a powerful tool to achieve these goals. Currently, I am a student focusing on Web Development — dedicated to learning and building real-world web applications using modern technologies.
 
-- 🎓 Pelajar / Mahasiswa
 - 🌏 Based in Bekasi, West Java, Indonesia
 - 🔭 Currently building my portfolio
-- 💬 Ask me about **Laravel, Next.js, or Tailwind CSS**
+- 💬 Ask me about **Laravel, Typescript, or React Js**
 - 📫 Reach me at zainimhtrm@gmail.com
 
 ---
