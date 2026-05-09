@@ -33,6 +33,5 @@
 <br/>
 <p align = "left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zennmhtr&show_icons=true&theme=bear&hide_border=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zennmhtr&theme=dark&hide_border=true" alt="GitHub Streak" width="420" />    
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zennmhtr&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zennmhtr&theme=dark&hide_border=true" alt="GitHub Streak" width="420" /> 
 </p>
