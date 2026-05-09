@@ -2,7 +2,7 @@
 <img alt="Coder GIF" height=400 width=600 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
 <img alt="Coder GIF" height=400 width=600 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<h3>When I code, I rely on</h3>
+<h3>When I code, my tech skills</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
