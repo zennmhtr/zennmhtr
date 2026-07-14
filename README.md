@@ -9,7 +9,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-ef4223.svg?logo=codeigniter&logoColor=white" />
   <img alt="Inertia" src="https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff" />
